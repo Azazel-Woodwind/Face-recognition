@@ -1,1 +1,8 @@
 .idea
+test.py
+.vscode
+*.jpg
+*.avi
+*.p
+known_faces
+unknown_faces
